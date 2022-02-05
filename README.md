@@ -1,6 +1,6 @@
 # GGJ2022
 Игра в рамках конкурса Global Game Jam 2022 на базе ЮУрГУ.
-Страница проекта: https://globalgamejam.org/2022/games/time-police-1
+Страница проекта (Там же Executable архив): https://globalgamejam.org/2022/games/time-police-1
 
 Игра была написана и отрисована с нуля за 48 часов командой из трёх человек.
 
