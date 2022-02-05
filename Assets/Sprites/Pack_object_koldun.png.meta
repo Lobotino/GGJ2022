@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 0674f6419a444674d8d3ba27167dac7c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pack_object_koldun_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ed810bbbb824440bc090b09f00b65d
+      internalID: -1109890337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 272
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee1e0e03f5d564892aa4a835f13159
+      internalID: 232153625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 272
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa352238ad5e0df4abfa806aade6fc57
+      internalID: 164927456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567bfd462e901914a928485c10c8ae08
+      internalID: 1621309656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 197
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44938fb58bdb6e4abdd91844e483973
+      internalID: -1714361897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 197
+        width: 48
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c62f10f7e3fcb4e8966324f674137f
+      internalID: -1281263827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 235
+        width: 14
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c526bdb5b94374b87abdf0b0a48311
+      internalID: -2098228405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 235
+        width: 14
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d6317a48d68014d9968bf5aa1ee217
+      internalID: -1904805009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 235
+        width: 14
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab2eba71de3efb4c97e5581362005e6
+      internalID: 961094068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 236
+        width: 19
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14015224a327b643beb63a8a49c806e
+      internalID: -2147190109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2d60876c89d1419e9e2a0a8a8f54d
+      internalID: -195834864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 193
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb7e39189bc87499fd2f58dde679e4
+      internalID: 24545345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 193
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30e8fdc8373f2a47b23ee602ba23f27
+      internalID: -329001019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 194
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969cbb33659cc342b4705e7226374f9
+      internalID: 1817125611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 12
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30adfac19092e3347833ebe966d9a345
+      internalID: 734448123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 142
+        width: 12
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb6ad491c9d574a8dca972a4b23c02
+      internalID: -1884186558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 142
+        width: 12
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e227114825a0468d5844c8e4eb9b5
+      internalID: -1829108965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 142
+        width: 12
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa157b92784fffa418a355fb85b93a79
+      internalID: 107592905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 142
+        width: 12
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727dd0de5766a64b82c32c804444d63
+      internalID: -1435189496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 142
+        width: 12
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cebb35fa1bf88048a9b4839f22046b0
+      internalID: 748661984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 142
+        width: 12
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59610db981949d0468290a584b5b0818
+      internalID: 1019921635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 142
+        width: 12
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c1731d2adf154ba23e0de84e46ca1
+      internalID: -1991624655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 61
+        width: 14
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829a0cb5a166a0e4a9ee499b6dfbe241
+      internalID: 616781926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 61
+        width: 15
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2cfc63e9e191d4598cf1e8d096d7c2
+      internalID: -339707546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 61
+        width: 15
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00228d8820a2a3499749bbb2f61d8aa
+      internalID: -515739658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 61
+        width: 17
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7960016c94319248ba4de005bcfab41
+      internalID: -2029823197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 68
+        width: 12
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18474620b5934c74b90c311ea3dcab0f
+      internalID: -1687403845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 68
+        width: 12
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9378a8cae4bd2e4d873037827f0c342
+      internalID: -378119554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 67
+        width: 12
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee015e00e2f77459430ecdfd8acfc1
+      internalID: -438269183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 66
+        width: 12
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1707a42cb7dd8c745945963901d07ced
+      internalID: 1426677455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30946bac1e86dd94bb9105751c0af5eb
+      internalID: 135168752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a92614d0a6ab46a933d06f24a16ef
+      internalID: -1731947978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099f8a30bfddfc4aa61b50ddf10face
+      internalID: -705887766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1535fb5a9c8808246abe509f61b1c49d
+      internalID: -1660853140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59f4995c372bb44b8199eb97c0d251
+      internalID: -282904823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_35
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03378225e6320d44cbbc330d3f33462f
+      internalID: -799460607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ce28871228d84f87f854b3c442707
+      internalID: 372638268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 97
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b84bc77cb7254d9216b3555dc30bc
+      internalID: -326595185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e8533ccbeed2e4091366aafcdd2ed8
+      internalID: -29676975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b32cfbb1e9b624795a50d8d8f5c2b7
+      internalID: 385058893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70998d884b966408a55dca1e8e319e
+      internalID: -1528775770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c8f250dc0d6a41918589993c76fca
+      internalID: -1037238576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_46
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badba371531d6204fb31ac8b9a76d329
+      internalID: -57799648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb5b3a3a7980f64faa6892ebfacb3e9
+      internalID: 1999000482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 47
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a5c8c8070f0b43870c3f094b973db
+      internalID: -1587612101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 47
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76319b22f98561a478148c9a8790a68c
+      internalID: 1659631055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8185d6850b5f08499a7a4f53570f755
+      internalID: -224182260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 21
+        width: 5
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55c7a8794864f4b8776a83b4d7e5e7
+      internalID: -1985385047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478e131ee426054eab0d9d57d5a56ec
+      internalID: -1249530324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 21
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2660a3d34958934e9fe75c89e7077d9
+      internalID: 1036218430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cf20e7163b7534db21f1f7f9e5f5d1
+      internalID: 1743978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 21
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7192ef723d1ed40893f84ab409c4b1
+      internalID: 705999283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cc01946736eca40b8c8f9e20fef926
+      internalID: 107634935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pack_object_koldun_61
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 20
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12cdd55bee0e1459040b86c27fb8cd
+      internalID: 1713979208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6b9b55f6a8e9bc2449c4d4d1497b0fcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pack_object_koldun_49: 2026519424
+      Pack_object_koldun_13: 1817125611
+      Pack_object_koldun_18: -1435189496
+      Pack_object_koldun_22: 616781926
+      Pack_object_koldun_54: -224182260
+      Pack_object_koldun_46: -57799648
+      Pack_object_koldun_36: 372638268
+      Pack_object_koldun_25: -2029823197
+      Pack_object_koldun_53: 870578271
+      Pack_object_koldun_51: 1657708496
+      Pack_object_koldun_59: 705999283
+      Pack_object_koldun_14: 734448123
+      Pack_object_koldun_21: -1991624655
+      Pack_object_koldun_43: 1296260097
+      Pack_object_koldun_33: -1660853140
+      Pack_object_koldun_50: -1587612101
+      Pack_object_koldun_11: 24545345
+      Pack_object_koldun_4: -1714361897
+      Pack_object_koldun_58: 1743978579
+      Pack_object_koldun_44: -1037238576
+      Pack_object_koldun_61: 1713979208
+      Pack_object_koldun_27: -378119554
+      Pack_object_koldun_45: 1365264147
+      Pack_object_koldun_20: 1019921635
+      Pack_object_koldun_35: -799460607
+      Pack_object_koldun_6: -2098228405
+      Pack_object_koldun_47: 1589818764
+      Pack_object_koldun_9: -2147190109
+      Pack_object_koldun_40: 385058893
+      Pack_object_koldun_24: -515739658
+      Pack_object_koldun_7: -1904805009
+      Pack_object_koldun_57: 1036218430
+      Pack_object_koldun_30: 135168752
+      Pack_object_koldun_10: -195834864
+      Pack_object_koldun_41: -1593984215
+      Pack_object_koldun_15: -1884186558
+      Pack_object_koldun_38: -29676975
+      Pack_object_koldun_42: -1528775770
+      Pack_object_koldun_56: -1249530324
+      Pack_object_koldun_55: -1985385047
+      Pack_object_koldun_48: 1999000482
+      Pack_object_koldun_60: 107634935
+      Pack_object_koldun_34: -282904823
+      Pack_object_koldun_3: 1621309656
+      Pack_object_koldun_0: -1109890337
+      Pack_object_koldun_12: -329001019
+      Pack_object_koldun_17: 107592905
+      Pack_object_koldun_1: 232153625
+      Pack_object_koldun_5: -1281263827
+      Pack_object_koldun_8: 961094068
+      Pack_object_koldun_16: -1829108965
+      Pack_object_koldun_52: 1659631055
+      Pack_object_koldun_2: 164927456
+      Pack_object_koldun_32: -705887766
+      Pack_object_koldun_19: 748661984
+      Pack_object_koldun_26: -1687403845
+      Pack_object_koldun_29: 1426677455
+      Pack_object_koldun_39: 627023361
+      Pack_object_koldun_37: -326595185
+      Pack_object_koldun_23: -339707546
+      Pack_object_koldun_28: -438269183
+      Pack_object_koldun_31: -1731947978
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

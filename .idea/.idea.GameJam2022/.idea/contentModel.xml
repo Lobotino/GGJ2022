@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lobotino\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lobotino\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_GameJam2022.9580879.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProjects\GameJam2022" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Battry" t="Include">
+            <e p="BatteryHolder.cs" t="Include" />
+            <e p="BottomColliderController.cs" t="Include" />
+            <e p="TopColliderController.cs" t="Include" />
+          </e>
+          <e p="BlinkScript.cs" t="Include" />
+          <e p="BorderCheat.cs" t="Include" />
+          <e p="BottomButtonScript.cs" t="Include" />
+          <e p="Bubble.cs" t="Include" />
+          <e p="DoorScript.cs" t="Include" />
+          <e p="Evidence.cs" t="Include" />
+          <e p="EvidenceController.cs" t="Include" />
+          <e p="EvidencesSaver.cs" t="Include" />
+          <e p="FinalFinalSceneScript.cs" t="Include" />
+          <e p="FinishAndruhaDialog.cs" t="Include" />
+          <e p="FinishKoldunScript.cs" t="Include" />
+          <e p="FinishLevelScript.cs" t="Include" />
+          <e p="FirstSceneDialogController.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="ITurnElements.cs" t="Include" />
+          <e p="IUsableItem.cs" t="Include" />
+          <e p="KoldunDialogs.cs" t="Include" />
+          <e p="KoldunHouseDialogScript.cs" t="Include" />
+          <e p="KoldunPosleDialog.cs" t="Include" />
+          <e p="LazerCollectorScript.cs" t="Include" />
+          <e p="LazerScript.cs" t="Include" />
+          <e p="LiftController.cs" t="Include" />
+          <e p="LiftScript.cs" t="Include" />
+          <e p="LightGreenScript.cs" t="Include" />
+          <e p="LyingEvidence.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="PiuScript.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="RunTextScript.cs" t="Include" />
+          <e p="StartCopsDialog.cs" t="Include" />
+          <e p="WallButtonScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GameJam2022.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
